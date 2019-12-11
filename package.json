@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/rootstax/cryptotracker-api/issues"
   },
-  "homepage": "https://github.com/rootstax/cryptotracker-api#readme"
+  "homepage": "https://github.com/rootstax/cryptotracker-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-pino-logger": "^4.0.0",
+    "path": "^0.12.7"
+  }
 }
